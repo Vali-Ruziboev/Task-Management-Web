@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .click-bounce {
+    @apply active:scale-75 transition-all duration-200 ease-out hover:bg-gray-100;
+  }
+}
