@@ -24,3 +24,7 @@
    4. RUN: `php artisan migrate`
    5. RUN: `php artisan serve`
 
+
+### Demo Video
+https://github.com/Vali-Ruziboev/Task-Management-Web/assets/89704608/01c344f7-0e4a-4326-bc83-2bf70b21dcf6
+
